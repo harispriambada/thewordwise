@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Villematier",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-16T15:31:48.825Z",
+      "notes": "",
+      "position": {
+        "lat": "43.81853208663151",
+        "lng": "1.5202116775270325"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Avion",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-17T02:53:41.915Z",
+      "notes": "",
+      "position": {
+        "lat": "42.938466396284966",
+        "lng": "-7.3769329331790905"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Saint-Branchs",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-17T02:54:32.104Z",
+      "notes": "",
+      "position": {
+        "lat": "47.2188293514194",
+        "lng": "0.7120676868694177"
+      },
+      "id": 73930388
+    }
+  ]
+}
